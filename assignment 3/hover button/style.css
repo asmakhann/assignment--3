@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    padding: 0;
+    
+
+    
+}
+
+.btn{
+
+padding: 300px;
+margin:0;
+background-image:url("https://images.unsplash.com/photo-1578654991424-bd24d2d272af?ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDN8Ym84alFLVGFFMFl8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60");
+background-size: cover;
+
+
+}
+
+button{
+
+    height: 40px;
+    font-size: 14px;
+    font-weight:lighter;
+    border: 1px solid orangered;
+    width: 150px;
+    padding: 10px;
+   width: 160px;
+   margin-top: 10px;
+   margin-bottom: 30px;
+   margin-left: 280px;
+   padding: 9px;
+   text-align: center;
+   display: flex;
+   justify-content: center;
+    color:orangered;
+   
+}
+
+button:hover{
+        
+    transform: translateY(-5px);
+    transition-duration: 0.6s;
+    color: black;
+    border-color: yellow;
+     box-shadow: 0px 5px 20px yellow;
+    
+
+}
